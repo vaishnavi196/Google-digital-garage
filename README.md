@@ -3,7 +3,7 @@
 > Executing the commands mentioned below one by one in your command line will help in making this application run on your system.
 > 
 > ```bash
-> git clone https://github.com/mausam-kumar/googleDigitalGarage.git
+> 
 > cd ./googleDigitalGarage/HTML/main.html
 > ```
 > After entering the commands mentioned above, open main.html with live server.
